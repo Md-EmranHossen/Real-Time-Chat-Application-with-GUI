@@ -133,6 +133,7 @@ public class Client implements ActionListener {
             e.printStackTrace();
         }
     }
+
     
     public static JPanel formatLabel(String out) {
         JPanel panel = new JPanel();
