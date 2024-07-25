@@ -3,6 +3,7 @@
 
 This is a simple chat application developed using Java Swing for the GUI and socket programming for the communication between the server and clients. The application allows multiple clients to connect to a server and exchange messages in real time.
 
+
 ## Features
 
 - Real-time messaging between multiple clients
